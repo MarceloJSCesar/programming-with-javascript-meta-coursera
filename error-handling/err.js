@@ -35,3 +35,9 @@
    For an instance:
     console.log((10).toString(1000));
 */
+
+/*
+
+    The difference between a bug and an error is that a bug when your code does not work as expected but it's still running, however on the other hand an error occurs it stops the whole application unless you apply defensive programming principles.
+
+*/
