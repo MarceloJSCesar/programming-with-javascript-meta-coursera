@@ -10,7 +10,5 @@ let closet = {
 };
 
 for (clos of Object.entries(closet)) { // Object.keys, Object.values and Object.entries
-    for(list of clos) {
-        console.log('list:',list);
-    }
+    console.log(`${clos[0]}: ${clos[1]}`);
 }
